@@ -1,5 +1,7 @@
 ## Environment
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/Noobxcoders/Botguard)
+
 To build the bot using this source-code, setup all vars manually and fill it at eduu/config.py file.
 
 ### Deploy on Heroku (PAID)

@@ -1,0 +1,8 @@
+{
+  "ytdl_sending": "Enviando...",
+  "ytdl_missing_argument": "Por favor, responda a un enlace de YouTube o texto.",
+  "ytdl_audio_button": "💿 Audio",
+  "ytdl_video_button": "🎬 Vídeo",
+  "ytdl_downloading": "Descargando...",
+  "ytdl_button_denied": "Este botón no es para usted."
+}

@@ -1,0 +1,4 @@
+{
+  "details": "<b>{location}</b>\n\nپلەی گەرما: <code>{temperature} °C</code>\nپلەی گەرماکە هەستی پێدەکرێت وەک: <code>{feels_like} °C</code>\nشێ: <code>{air_humidity}%</code>\nخێرایی با: <code>{wind_speed} کیلۆمەتر/کاتژمێر</code>\n\n- <i>{overview}</i>",
+  "location_not_found": "ئەم جێیە نەدۆزرایەوە."
+}

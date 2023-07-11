@@ -1,0 +1,10 @@
+{
+  "list_commands_panel": "menu perintah bot",
+  "admin": "👮🏻 Administrasi",
+  "command_category_title": "Daftar perintah di <b>{category}</b>:",
+  "select_command_category": "Silakan pilih salah satu kategori di bawah ini untuk melihat perintah yang tersedia.\n\n» Handler tersedia: <code>($ / . !)</code>",
+  "general": "✨ Umum",
+  "tools": "🔧 Peralatan",
+  "group_help": "Hai, silakan gunakan perintah di obrolan pribadi bot atau klik tombol di bawah ini untuk melihat perintah yang tersedia.",
+  "inlines": "🔍 Inlines"
+}

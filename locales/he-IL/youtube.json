@@ -1,0 +1,8 @@
+{
+  "ytdl_sending": "שולח...",
+  "ytdl_missing_argument": "בבקשה תשיב או שתציין קישור ליוטיוב.",
+  "ytdl_audio_button": "💿 אודיו",
+  "ytdl_video_button": "🎬 וידאו",
+  "ytdl_downloading": "מוריד...",
+  "ytdl_button_denied": "הכפתור הזה הוא לא בשבילך."
+}
